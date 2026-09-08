@@ -4,13 +4,6 @@
   <strong>Software Engineering Student · Web & Backend Developer · Infrastructure Enthusiast</strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/afiffaizin">
-    <img src="https://img.shields.io/github/followers/afiffaizin?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=afiffaizin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
