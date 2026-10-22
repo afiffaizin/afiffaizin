@@ -43,8 +43,6 @@ I have a strong interest in **Web Development**, **Backend Development**, **REST
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white)
 
 **Backend & Architecture**
 
@@ -65,24 +63,8 @@ I have a strong interest in **Web Development**, **Backend Development**, **REST
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afiffaizin&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afiffaizin&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170" />
-</p>
-
----
 
 
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afiffaizin&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
